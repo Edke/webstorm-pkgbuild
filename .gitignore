@@ -1,0 +1,6 @@
+src/*
+pkg/*
+WebStorm-*.tar.gz
+webstorm-*.src.tar.gz
+webstorm-*.pkg.tar.xz
+*.desktop
